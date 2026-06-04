@@ -89,7 +89,7 @@ s3transfer==0.16.0
     # via boto3
 six==1.17.0
     # via python-dateutil
-starlette==0.52.1
+starlette==1.0.1
     # via bedrock-agentcore
 typing-extensions==4.15.0
     # via

@@ -122,6 +122,7 @@
 - JobRamos (jobdram)
 - Will Matos (wilmatos)
 - Senthil Mohan (skmohan)
+- Guruprasad Seeryada (svguru)
 - Fabio Balancin (balancin)
 - Varun Gunda (vvargu)
 - Anil Nadiminti (aniloncloud)
